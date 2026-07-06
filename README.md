@@ -5,4 +5,7 @@ O produto apresentado se chama Gestor MNT e consiste em um software gerenciador 
 
 A apresentação do projeto está no arquivo : "MVP GESTÃO AGIL - PROJETO GESTOR MNT - ALVARO JR.pdf" deste repositório.
 
+
+A apresentação em vídeo está no link: https://youtu.be/cN24MRhjywQ
+
    
